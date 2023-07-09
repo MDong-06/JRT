@@ -1,2 +1,1 @@
-run = "clear && npm start"
-language = "bash && nodejs"
+run = "npm start"
